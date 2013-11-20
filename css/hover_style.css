@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+.app_box{width:350px; height:435px; float:left; background:#FFF; -webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px; -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.45);
+-moz-box-shadow:    0px 0px 5px rgba(0, 0, 0, 0.45);
+box-shadow:         0px 0px 5px rgba(0, 0, 0, 0.45);
+-o-transition:color .2s ease-out, box-shadow 0.3s ease-in;
+  			-ms-transition:color .2s ease-out, box-shadow 0.3s ease-in;
+  			-moz-transition:color .2s ease-out, box-shadow 0.3s ease-in;
+  			-webkit-transition:color .2s ease-out, box-shadow 0.3s ease-in;}
+.app_box:hover{-webkit-box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.91);
+-moz-box-shadow:    0px 0px 18px rgba(0, 0, 0, 0.91);
+box-shadow:         0px 0px 18px rgba(0, 0, 0, 0.91);}
+.app_imgbox_cartman{width:350px; height:251px; float:left; background:url(../images/cartman.png) no-repeat;}
+.app_imgbox_cartman h1{font-family:Arial, Helvetica, sans-serif; font-size:36px; color:#FFF; font-weight:bold; text-align:center; margin-top:105px;}
+.languagebx{width:auto; height:28px; position:absolute; margin:192px 0 0 0; background:url(../images/h2_bg.png) no-repeat right; padding:0 20px 0 16px; 
+			font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#6d6e71; line-height:25px; font-weight:bold;}
+
+.app_box_content{width:272px; min-height:84px; float:left; margin:29px 0 0 33px; font-size:16px; color:#333333; line-height:22px;}
+.btn_github{width:142px; height:20px; float:left; margin:20px 0 0 33px; background:url(../images/btn_github.png) no-repeat; background-position:0px 0px;
+			-o-transition:color .2s ease-out, background 0.3s ease-in;
+  			-ms-transition:color .2s ease-out, background 0.3s ease-in;
+  			-moz-transition:color .2s ease-out, background 0.3s ease-in;
+  			-webkit-transition:color .2s ease-out, background 0.3s ease-in;}
+.btn_github:hover{background-position:0px -20px;}			
+			
+			
+			
+			
+			
+
